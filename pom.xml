@@ -8,8 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>111223424wenda111zjm1rrrrr</name>
-	<description>Demo project for Spring Boot</description>
+    <name>111223424wenda111zjm1134rtry</name>	<description>Demo project for Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
